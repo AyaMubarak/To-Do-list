@@ -1,0 +1,20 @@
+
+input[value="Add"]{
+    background-color: green;
+    width:40px;
+    height:30px;
+}
+div{
+    text-align: center;
+  width:300px;
+  margin: auto;
+  padding:30px;
+}
+.checked{
+    text-decoration: line-through;
+}
+li{
+    list-style-type: none;
+    background-color: darkgray;
+    text-align: start;
+}
